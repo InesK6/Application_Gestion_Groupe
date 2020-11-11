@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">neighbors</string>
+    <string name="image1">Image</string>
+    <string name="nom">Nom</string>
+    <string name="telephone">Telephone</string>
+    <string name="webste">WebSite</string>
+    <string name="adress">Adresse</string>
+    <string name="apropos">A propos</string>
+    <string name="error_tel">Le téléphone doit être au format (06 ou 07) XX XX XX XX</string>
+    <string name="error_urlImage">"L'url est invalide"</string>
+    <string name="error_urlWeb">"L'url est invalide"</string>
+</resources>
